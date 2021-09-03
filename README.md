@@ -1,5 +1,5 @@
 # sample-rest
-Sample REST written in node.js
+Sample REST written in node.js - using express and jest 
 
 # To run this app do the following
 
